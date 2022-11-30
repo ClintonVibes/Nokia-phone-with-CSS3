@@ -1,0 +1,316 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container1{
+    width: 250px;
+    height: 580px;
+    background: -webkit-linear-gradient(top, rgb(107, 6, 6),red);
+    margin-left: 550px;
+    margin-top: 20px;
+    border-radius: 25px;
+    position: relative;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.container2{
+    width: 225px;
+    height: 250px;
+    background: -webkit-linear-gradient(top, rgb(44, 3, 3),rgb(107, 3, 3));
+    margin-left: 13px;
+    margin-top: 19px;
+    position: absolute;
+    border-radius: 20px;
+}
+.name{
+    color: #fff;
+    margin-left: 90px;
+    margin-top: 40px;
+    position: absolute;
+    font-size: 9px;
+}
+.screen{
+    width: 200px;
+    height: 170px;
+    background: gray;
+    margin-left: 25px;
+    margin-top: 65px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.center_button{
+    width: 70px;
+    height: 70px;
+    background: gray;
+    margin-left: 89px;
+    margin-top: 280px;
+    position: absolute;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.right_button{
+    width: 70px;
+    height: 35px;
+    background: black;
+    margin-left: 170px;
+    margin-top: 280px;
+    position: absolute;
+    border-radius: 10px;
+    color: #fff;
+}
+.right_button h1{
+    text-align: center;
+    padding-bottom: 3px;
+}.right1_button{
+    width: 70px;
+    height: 35px;
+    background: black;
+    margin-left: 170px;
+    margin-top: 320px;
+    position: absolute;
+    border-radius: 10px;
+    color: #fff;
+}
+.right1_button h1{
+    text-align: center;
+}
+.left_button{
+    width: 70px;
+    height: 35px;
+    background: black;
+    margin-left: 10px;
+    margin-top: 280px;
+    position: absolute;
+    border-radius: 10px;
+    color: #fff;
+}
+.left_button h1{
+    text-align: center;
+}.left1_button{
+    width: 70px;
+    height: 35px;
+    background: black;
+    margin-left: 10px;
+    margin-top: 320px;
+    position: absolute;
+    border-radius: 10px;
+    color: #fff;
+}
+.left1_button h1{
+    text-align: center;
+}
+.three{
+    width: 65px;
+    height: 30px;
+    margin-left: 175px;
+    margin-top: 375px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.three h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.two{
+    width: 65px;
+    height: 30px;
+    margin-left: 93px;
+    margin-top: 390px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.two h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.one{
+    width: 65px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 375px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.one h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.six{
+    width: 65px;
+    height: 30px;
+    margin-left: 175px;
+    margin-top: 420px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.six h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.five{
+    width: 65px;
+    height: 30px;
+    margin-left: 93px;
+    margin-top: 435px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.five h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.four{
+    width: 65px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 420px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.four h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.nine{
+    width: 65px;
+    height: 30px;
+    margin-left: 175px;
+    margin-top: 465px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.nine h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.eight{
+    width: 65px;
+    height: 30px;
+    margin-left: 93px;
+    margin-top: 480px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.eight h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.seven{
+    width: 65px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 465px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.seven h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}.hash{
+    width: 65px;
+    height: 30px;
+    margin-left: 175px;
+    margin-top: 510px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.hash h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.zero{
+    width: 65px;
+    height: 30px;
+    margin-left: 93px;
+    margin-top: 525px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.zero h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 3px;
+}
+.star{
+    width: 65px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 510px;
+    position: absolute;
+    background-color: #111;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgb(0, 0, 0.6);
+}
+.star h1{
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 21px;
+    font-weight: lighter;
+    padding-top: 8px;
+}
